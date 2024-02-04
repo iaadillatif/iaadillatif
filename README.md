@@ -1,5 +1,3 @@
-Certainly! Below is a more polished and professional version of your GitHub README file:
-
 # Hi there! 👋
 
 I'm **Aadil Latif**, a dedicated B.Tech Computer Science student at Mahatma Gandhi Central University in Motihari, Bihar. I'm passionate about the intersection of technology, creativity, and problem-solving. With a robust academic background and a keen interest in web development, I'm on a journey to make meaningful contributions to the dynamic field of computer science.
@@ -44,6 +42,9 @@ Encountering challenges, particularly in collaborative problem-solving, has been
 
 As an 18-year-old navigating the exciting world of technology through my B.Tech in Computer Science, I am enthusiastic about embracing challenges and opportunities. Looking forward to starting my own small startup, I am excited about the potential for positive impact through my academic and personal journey.
 
+## 💞️ I’m looking to collaborate on web development projects with individuals or companies.
+
+I am actively seeking opportunities to collaborate on innovative web development projects that align with my passion for creativity and problem-solving. Whether it's building user-friendly interfaces, crafting robust backend systems, or contributing to full-stack development, I am eager to bring my skills and enthusiasm to the table. If you share a vision for pushing the boundaries of technology and creating impactful digital experiences, I'd love to connect. Feel free to reach out to me on https://www.linkedin.com/in/iaadillatif, where we can explore potential collaborations and discuss how we can make a meaningful impact together. Let's build something great! 🚀
 <!---
 iaadillatif/iaadillatif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
