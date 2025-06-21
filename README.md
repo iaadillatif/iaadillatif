@@ -2,50 +2,27 @@
 
 I'm **Aadil Latif**, a dedicated B.Tech Computer Science student at Mahatma Gandhi Central University in Motihari, Bihar. I'm passionate about the intersection of technology, creativity, and problem-solving. With a robust academic background and a keen interest in web development, I'm on a journey to make meaningful contributions to the dynamic field of computer science.
 
-## About Me 🚀
+# 💫 About Me:
+- 🔭 I'm currently working on building **TechXNinjas**, a student community platform for hackathons, mentorship, and career growth.<br>- 🤝 I'm looking to collaborate on **open-source projects**, **tech communities**, and **student-centric initiatives**.<br>- 🧠 I'm looking for help with **scaling TechXNinjas**, especially in areas like community growth, sponsorships, and technical collaborations.<br>- 🌱 I'm currently learning **Supabase, DevOps, and advanced JavaScript/TypeScript**.<br>- 💬 Ask me about **student communities, GitHub, hackathons, or starting your tech journey**.<br>- 😄 Fun fact: I love turning simple ideas into real platforms — and most of my learning happens past midnight!<br>
 
-I hail from Motihari and have been immersed in a supportive family environment that has shaped my values and ambitions. Despite societal expectations favoring traditional job roles, my aspiration is to cultivate an entrepreneurial spirit and create job opportunities for others.
 
-## Education 📚
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iaadillatif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iaadillatif) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iaadillatif) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iaadillatif) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techxninjas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadillatif95230@gmail.com) 
 
-Currently pursuing my B.Tech in Computer Science, my academic journey has deepened my understanding of technology and fueled my curiosity to explore emerging technologies and their real-world applications.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=plastic&logo=ovh&logoColor=#123F6D) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=plastic&logo=deno&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=plastic&logo=sketchup&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iaadillatif&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iaadillatif&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iaadillatif&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## Interests and Hobbies 🎮
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Beyond academics, I find joy in learning new technologies and participating in sports like football, volleyball, and badminton. These pursuits not only provide a welcome break from studies but also contribute to my personal growth and well-being.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iaadillatif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Skills and Strengths 💪
+---
+[![](https://visitcount.itsvg.in/api?id=iaadillatif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Throughout my academic journey, I've honed various skills, including proficiency in programming languages, problem-solving, and effective teamwork. My ability to solve problems has been particularly instrumental, even earning recognition in the Mathematics Olympiad.
-
-## Professional Experience 💼
-
-While currently a student, I've had the opportunity to apply theoretical knowledge in practical settings, preparing me for the dynamic challenges of the professional world.
-
-## Achievements and Milestones 🏆
-
-One of my proudest achievements is serving as a leader in XIth class at Zila School, Motihari, demonstrating qualities of perseverance and dedication that I carry with me in all aspects of life.
-
-## Goals and Aspirations 🌟
-
-Looking ahead, I'm driven by a desire to help others by creating opportunities, be it through a business venture or a leadership role. Excited about the possibilities, I am eager to contribute to the field of computer science.
-
-## Values and Beliefs 🌐
-
-At the core of my actions are values such as integrity, continuous learning, and a commitment to excellence. These principles guide me in both personal and academic endeavors.
-
-## Challenges and Growth 🌱
-
-Encountering challenges, particularly in collaborative problem-solving, has been instrumental in shaping my character and fostering resilience. Each obstacle has served as a stepping stone toward personal and academic growth.
-
-## Conclusion 🚀
-
-As an 18-year-old navigating the exciting world of technology through my B.Tech in Computer Science, I am enthusiastic about embracing challenges and opportunities. Looking forward to starting my own small startup, I am excited about the potential for positive impact through my academic and personal journey.
-
-## 💞️ I’m looking to collaborate on web development projects with individuals or companies.
-
-I am actively seeking opportunities to collaborate on innovative web development projects that align with my passion for creativity and problem-solving. Whether it's building user-friendly interfaces, crafting robust backend systems, or contributing to full-stack development, I am eager to bring my skills and enthusiasm to the table. If you share a vision for pushing the boundaries of technology and creating impactful digital experiences, I'd love to connect. Feel free to reach out to me on https://www.linkedin.com/in/iaadillatif, where we can explore potential collaborations and discuss how we can make a meaningful impact together. Let's build something great! 🚀
-<!---
-iaadillatif/iaadillatif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
