@@ -22,5 +22,4 @@ I'm **Aadil Latif**, a dedicated B.Tech Computer Science student at Mahatma Gand
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iaadillatif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaadillatif&show_icons=true&locale=en&layout=compact" alt="iaadillatif" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaadillatif" alt="iaadillatif" /></a></p>
