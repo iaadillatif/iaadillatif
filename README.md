@@ -1,11 +1,5 @@
 # Hi there! 👋
 
-I'm **Aadil Latif**, a dedicated B.Tech Computer Science student at Mahatma Gandhi Central University in Motihari, Bihar. I'm passionate about the intersection of technology, creativity, and problem-solving. With a robust academic background and a keen interest in web development, I'm on a journey to make meaningful contributions to the dynamic field of computer science.
-
-# 💫 About Me:
-- 🔭 I'm currently working on building **TechXNinjas**, a student community platform for hackathons, mentorship, and career growth.<br>- 🤝 I'm looking to collaborate on **open-source projects**, **tech communities**, and **student-centric initiatives**.<br>- 🧠 I'm looking for help with **scaling TechXNinjas**, especially in areas like community growth, sponsorships, and technical collaborations.<br>- 🌱 I'm currently learning **Supabase, DevOps, and advanced JavaScript/TypeScript**.<br>- 💬 Ask me about **student communities, GitHub, hackathons, or starting your tech journey**.<br>- 😄 Fun fact: I love turning simple ideas into real platforms — and most of my learning happens past midnight!<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iaadillatif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iaadillatif) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iaadillatif) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iaadillatif) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techxninjas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadillatif95230@gmail.com) 
 
