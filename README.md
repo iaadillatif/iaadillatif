@@ -16,6 +16,9 @@
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iaadillatif&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/iaadillatif" alt="Contribution Calendar" width="100%"/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
