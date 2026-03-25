@@ -22,7 +22,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iaadillatif&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaadillatif" alt="iaadillatif" /></a></p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iaadillatif&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
