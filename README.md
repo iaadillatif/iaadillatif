@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iaadillatif) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iaadillatif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadillatif95230@gmail.com) 
 
@@ -9,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=iaadillatif&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=iaadillatif&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iaadillatif&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iaadillatif&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
